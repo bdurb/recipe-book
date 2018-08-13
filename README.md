@@ -5,3 +5,5 @@ recipe book built with
 -express
 -knex
 -sqlite
+
+database created and seeded through migrations using knex.
